@@ -101,6 +101,5 @@ Le principal défi réside dans le fait que le langage utilisé était presque n
 
 Je ne fournirai pas de vidéo, car je n'ai finalement pas réussi à faire fonctionner la page et à résoudre l'erreur rencontrée.
 
-Mon dépôt est disponible ici : https://github.com/Nikitose/hdm-todo-test-api
 
 
